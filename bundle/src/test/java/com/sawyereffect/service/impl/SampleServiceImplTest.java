@@ -1,6 +1,5 @@
 package com.sawyereffect.service.impl;
 
-import com.sawyereffect.service.impl.SampleServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 
