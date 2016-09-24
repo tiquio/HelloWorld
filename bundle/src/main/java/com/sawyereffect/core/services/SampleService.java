@@ -1,4 +1,4 @@
-package com.sawyereffect.service;
+package com.sawyereffect.core.services;
 
 public interface SampleService {
 

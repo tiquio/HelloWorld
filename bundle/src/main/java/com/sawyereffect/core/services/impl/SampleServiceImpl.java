@@ -1,7 +1,7 @@
-package com.sawyereffect.service.impl;
+package com.sawyereffect.core.services.impl;
 
 
-import com.sawyereffect.service.SampleService;
+import com.sawyereffect.core.services.SampleService;
 import org.apache.felix.scr.annotations.Activate;
 import org.apache.felix.scr.annotations.Component;
 import org.apache.felix.scr.annotations.Property;

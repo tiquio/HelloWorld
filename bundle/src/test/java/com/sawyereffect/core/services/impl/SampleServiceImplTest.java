@@ -1,4 +1,4 @@
-package com.sawyereffect.service.impl;
+package com.sawyereffect.core.services.impl;
 
 import org.junit.Before;
 import org.junit.Test;
